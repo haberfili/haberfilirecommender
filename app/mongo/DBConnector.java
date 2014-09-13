@@ -8,9 +8,9 @@ import com.mongodb.ServerAddress;
 
 public class DBConnector {
 	
-	static String host="ds061298.mongolab.com";
-	static Integer port = 61298;
-	static String database="heroku_app20395923";
+	static String host="ds035240.mongolab.com";
+	static Integer port = 35240;
+	static String database="heroku_app29550596";
 	static String username="mokarakaya";
 	static String password="passw0rd33";
 	
